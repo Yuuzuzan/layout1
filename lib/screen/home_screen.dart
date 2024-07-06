@@ -16,7 +16,7 @@ class _HomeScreenState extends State<HomeScreen> {
         ),
         body: Column(
           children: [
-            Image.asset("images/pig.jpg"),
+            Image.asset("images/yellowchair.jpg"),
             Row(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: [
